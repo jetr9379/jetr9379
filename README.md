@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Jenna and I am a researcher studying LCA at Northwestern🌱
+I am looking to collaborate 👯 on projects dealing with sustainable mining in developing countries
+
+📫 How to reach me:
+jennatrost2026@u.northwestern.edu
+
 
 <!--
 **jetr9379/jetr9379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
